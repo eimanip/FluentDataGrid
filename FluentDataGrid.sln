@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentDataGrid.Core", "FluentDataGrid.Core\FluentDataGrid.Core.csproj", "{21D3BB65-FFAC-4328-A771-DCE0A71C094C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentDataGrid.Sample", "FluentDataGrid.Sample\FluentDataGrid.Sample.csproj", "{14932D1E-A2A2-47C1-BBD9-D21E97DE1A1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21D3BB65-FFAC-4328-A771-DCE0A71C094C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21D3BB65-FFAC-4328-A771-DCE0A71C094C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21D3BB65-FFAC-4328-A771-DCE0A71C094C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21D3BB65-FFAC-4328-A771-DCE0A71C094C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14932D1E-A2A2-47C1-BBD9-D21E97DE1A1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14932D1E-A2A2-47C1-BBD9-D21E97DE1A1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14932D1E-A2A2-47C1-BBD9-D21E97DE1A1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14932D1E-A2A2-47C1-BBD9-D21E97DE1A1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {073C73EE-DF68-4431-95EC-779853A54E6F}
+	EndGlobalSection
+EndGlobal
