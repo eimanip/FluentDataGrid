@@ -8,7 +8,7 @@ using System.Windows;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Fluent DataGrid")]
-[assembly: AssemblyDescription("A DataGrid inherited WPF original DataGrid with super features.")]
+[assembly: AssemblyDescription("A custom DataGrid inherited from the original WPF DataGrid with super features!")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Eiman Iranpour")]
 [assembly: AssemblyProduct("FluentDataGrid")]
